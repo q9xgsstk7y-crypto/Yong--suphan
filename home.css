@@ -74,7 +74,7 @@
     }
 
     .cars {
-        grid-template-columns: (2, 1fr);; /* รถมอเตอร์ไซค์/รถยนต์ เรียงแถวเดี่ยว */
+        grid-template-columns:repeat(2, 1fr);; /* รถมอเตอร์ไซค์/รถยนต์ เรียงแถวเดี่ยว */
     }
 
     .img-father {
